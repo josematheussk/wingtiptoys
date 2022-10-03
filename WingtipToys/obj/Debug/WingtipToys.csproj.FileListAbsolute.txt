@@ -1,0 +1,82 @@
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\WingtipToys.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\WingtipToys.pdb
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\Antlr3.Runtime.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\DotNetOpenAuth.AspNet.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\DotNetOpenAuth.Core.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\DotNetOpenAuth.OAuth.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\DotNetOpenAuth.OpenId.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\EntityFramework.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\Microsoft.Web.Infrastructure.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\System.Web.Optimization.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\System.Web.Providers.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\WebGrease.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\EntityFramework.xml
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\DotNetOpenAuth.Core.xml
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\DotNetOpenAuth.OAuth.xml
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\DotNetOpenAuth.OpenId.xml
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\bin\DotNetOpenAuth.AspNet.xml
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csprojResolveAssemblyReference.cache
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\obj\Debug\WingtipToys.dll
+c:\users\josem\documents\visual studio 2012\Projects\WingtipToys\WingtipToys\obj\Debug\WingtipToys.pdb
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\WingtipToys.dll.config
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\WingtipToys.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\WingtipToys.pdb
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Antlr3.Runtime.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\DotNetOpenAuth.Core.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\EntityFramework.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\EntityFramework.SqlServer.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.Owin.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Newtonsoft.Json.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Owin.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\System.Web.Optimization.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\System.Web.Providers.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\WebGrease.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\EntityFramework.xml
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\EntityFramework.SqlServer.xml
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.Owin.xml
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.xml
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\Newtonsoft.Json.xml
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\DotNetOpenAuth.Core.xml
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csproj.CoreCompileInputs.cache
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csproj.CopyComplete
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\obj\Debug\WingtipToys.dll
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\obj\Debug\WingtipToys.pdb
+C:\Users\josem\Documents\TI\aspnet\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csprojAssemblyReference.cache
