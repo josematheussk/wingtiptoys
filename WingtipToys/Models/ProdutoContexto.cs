@@ -10,6 +10,7 @@ namespace WingtipToys.Models
         }
         public DbSet<Categoria> Categorias { get; set; }
         public DbSet<Produto> Produtos { get; set; }
+        public DbSet<CarrinhoItem> ItemCarrinhoCompras { get; set; }
 
     }
 }

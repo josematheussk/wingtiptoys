@@ -47,6 +47,11 @@
                                         <b>Preço: </b><%#:String.Format("{0:c}", Item.Preco)%>
                                     </span>
                                     <br />
+                                    <a href="/AddCarrinho.aspx?produtoID=<%#:Item.ProdutoID %>">               
+                                        <span class="ProutoListaItem">
+                                            <b>Adicionar ao carrinho<b>
+                                        </span>           
+                                    </a>
                                 </td>
                             </tr>
                             <tr>

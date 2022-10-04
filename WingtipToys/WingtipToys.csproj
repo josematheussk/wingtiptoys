@@ -160,6 +160,8 @@
     <Content Include="Account\OpenAuthProviders.ascx" />
     <Content Include="Account\Register.aspx" />
     <Content Include="Account\RegisterExternalLogin.aspx" />
+    <Content Include="AddCarrinho.aspx" />
+    <Content Include="CarrinhoCompra.aspx" />
     <Content Include="Catalog\Images\boatbig.png" />
     <Content Include="Catalog\Images\boatpaper.png" />
     <Content Include="Catalog\Images\boatsail.png" />
@@ -298,6 +300,13 @@
     <Content Include="Bundle.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddCarrinho.aspx.cs">
+      <DependentUpon>AddCarrinho.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddCarrinho.aspx.designer.cs">
+      <DependentUpon>AddCarrinho.aspx</DependentUpon>
+    </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\AuthConfig.cs" />
     <Compile Include="About.aspx.cs">
@@ -342,6 +351,13 @@
     <Compile Include="Account\RegisterExternalLogin.aspx.designer.cs">
       <DependentUpon>RegisterExternalLogin.aspx</DependentUpon>
     </Compile>
+    <Compile Include="CarrinhoCompra.aspx.cs">
+      <DependentUpon>CarrinhoCompra.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CarrinhoCompra.aspx.designer.cs">
+      <DependentUpon>CarrinhoCompra.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -359,6 +375,8 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Logic\CarrinhoCompraAto.cs" />
+    <Compile Include="Models\CarrinhoItem.cs" />
     <Compile Include="Models\Categoria.cs" />
     <Compile Include="Models\ProductDatabaseInitializer.cs" />
     <Compile Include="Models\Produto.cs" />
